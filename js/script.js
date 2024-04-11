@@ -25,9 +25,10 @@ const team = [
         foto:"scott-estrada-developer.jpg",
       },
       {
-        nome:"Barbara Ramos"		          
+        nome:"Barbara Ramos",		          
         ruolo:"Graphic Designer", 
         foto:"barbara-ramos-graphic-designer.jpg",
       },
   ];
   
+  printLog(team);

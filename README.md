@@ -28,8 +28,8 @@ Buon lavoro! :laptop_parrot:
 :thinking_face: che cosa succede se utente clicca sull'avvia più volte?
 
 ## Svolgimento 
-- [ ] 
-- [ ] 
+- [ ] Creo l'array di oggetti con i dati forniti
+- [ ] Usando i cicli stampo in console
 - [ ] 
 - [ ] 
 - [ ] 

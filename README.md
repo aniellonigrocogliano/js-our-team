@@ -28,9 +28,9 @@ Buon lavoro! :laptop_parrot:
 :thinking_face: che cosa succede se utente clicca sull'avvia più volte?
 
 ## Svolgimento 
-- [ ] Creo l'array di oggetti con i dati forniti
-- [ ] Usando i cicli stampo in console
-- [ ] 
+- [x] Creo l'array di oggetti con i dati forniti
+- [x] Usando i cicli stampo in console
+- [ ] Con lo stesso principio della stampa in DOM come stringhe
 - [ ] 
 - [ ] 
 - [ ] 

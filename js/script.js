@@ -12,7 +12,7 @@ const team = [
       {
         nome:"Walter Gordon",	              
         ruolo:"Office Manager", 
-        foto:"walter-gordon-office-manager.jpg,",
+        foto:"walter-gordon-office-manager.jpg",
       },
       {
         nome:"Angela Lopez",		      
@@ -32,3 +32,4 @@ const team = [
   ];
   
   printLog(team);
+  printInDom(team);

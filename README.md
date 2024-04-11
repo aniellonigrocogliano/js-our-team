@@ -30,12 +30,6 @@ Buon lavoro! :laptop_parrot:
 ## Svolgimento 
 - [x] Creo l'array di oggetti con i dati forniti
 - [x] Usando i cicli stampo in console
-- [ ] Con lo stesso principio della stampa in DOM come stringhe
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Con lo stesso principio della stampa in DOM come stringhe
+- [x] Inserisco uno stile a griglia per rendere più accattivante il tutto
 

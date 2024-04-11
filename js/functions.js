@@ -26,7 +26,7 @@ function printInDom(team) {
         const person = team[i];
         teamId.innerHTML += `
         <div class="col-4">
-        <div class="card mb-3">
+        <div class="card mb-5 p-2">
             <img src="./img/${team[i].foto}" class="card-img-top" alt="${team[i].nome}">
             <div class="card-body">
               <h2 class="card-title">${team[i].nome}</h2>
@@ -34,8 +34,5 @@ function printInDom(team) {
             </div>
     </div>
         `;
-            
-        
-
     }
 }
